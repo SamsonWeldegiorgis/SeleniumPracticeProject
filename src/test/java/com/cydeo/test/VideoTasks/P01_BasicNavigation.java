@@ -1,11 +1,11 @@
-package com.cydeo;
+package com.cydeo.test.VideoTasks;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class PO1_BasicNavigation {
+public class P01_BasicNavigation {
 
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.test.VideoTasks;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

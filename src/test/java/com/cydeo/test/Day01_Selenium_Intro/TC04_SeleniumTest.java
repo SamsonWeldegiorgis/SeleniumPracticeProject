@@ -1,10 +1,10 @@
-package com.cydeo.test.day1_selenium_intro;
+package com.cydeo.test.Day01_Selenium_Intro;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class SeleniumTest {
+public class TC04_SeleniumTest {
 
     public static void main(String[] args) throws InterruptedException {
 
